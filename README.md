@@ -27,6 +27,12 @@
 2. 不会支持OD
 3. 计划支持windbg、[cutter](https://github.com/radareorg/cutter)、[ghidra](https://github.com/NationalSecurityAgency/ghidra) 。后俩者需要它们本身先支持调试功能
 
+
+#### 技术支持(包括但不限于反反调试、驱动读写、驱动注入...
+> 如果你要支持某一特定程序或系统, 请邮件联系我，我将成为你的私人技术支持... （*很明显这将是付费的.*
+
+
+
 #### 使用
 1. 将`Mirage.sys`、`MirageV.dp32`、`MirageV.dp64`移动到`\plugins\`目录下
 
@@ -47,9 +53,6 @@
 > 直接点击开启
 
 ![image](https://user-images.githubusercontent.com/16742566/68471860-13293000-025a-11ea-8319-1707dcb9a0d2.png)
-
-
-
 
 
 #### 演示
