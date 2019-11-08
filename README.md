@@ -16,7 +16,7 @@
 1. win7 x64
 2. win10 19h1 x64
 
-> 注：请把你需要的系统告诉我:[issues](https://github.com/stonedreamforest/Mirage/issues)
+> 注：请把你需要的系统告诉我:[issues](https://github.com/stonedreamforest/Mirage/issues) 或者给我发邮件... 如果你有我的微信也可以说... 友情通道...QAQ
 
 > 我会在我的空闲时间支持它（拒绝支持x86内核以及xp、win8、win8.1😅
 
