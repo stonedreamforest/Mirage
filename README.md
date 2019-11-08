@@ -18,7 +18,10 @@
 
 > 注：请把你需要的系统告诉我，我会在我的空闲时间支持它（拒绝支持x86内核以及xp、win8、win8.1😅
 
-
+#### 调试器支持
+1. 现支持[x64dbg](https://github.com/x64dbg/x64dbg)，而且会持续更新...
+2. 不会支持OD
+3. 计划支持windbg、[cutter](https://github.com/radareorg/cutter)、[ghidra](https://github.com/NationalSecurityAgency/ghidra) 。后俩者需要它们本身先支持调试功能
 
 #### 使用
 1. 将`Mirage.sys`、`MirageV.dp32`、`MirageV.dp64`移动到`\plugins\`目录下
