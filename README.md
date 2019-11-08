@@ -10,38 +10,7 @@
 
 #### 测试程序
 [al-khaser](https://github.com/LordNoteworthy/al-khaser)
-- [ ] IsDebuggerPresent
-- [ ] CheckRemoteDebuggerPresent
-- [ ] Process Environment Block (BeingDebugged)
-- [ ] Process Environment Block (NtGlobalFlag)
-- [ ] ProcessHeap (Flags)
-- [ ] ProcessHeap (ForceFlags)
-- [ ] NtQueryInformationProcess (ProcessDebugPort)
-- [ ] NtQueryInformationProcess (ProcessDebugFlags)
-- [ ] NtQueryInformationProcess (ProcessDebugObject)
-- [ ] WudfIsAnyDebuggerPresent
-- [ ] WudfIsKernelDebuggerPresent
-- [ ] WudfIsUserDebuggerPresent
-- [ ] NtSetInformationThread (HideThreadFromDebugger)
-- [ ] NtQueryObject (ObjectTypeInformation)
-- [ ] NtQueryObject (ObjectAllTypesInformation)
-- [ ] CloseHanlde (NtClose) Invalide Handle
-- [ ] SetHandleInformation (Protected Handle)
-- [ ] UnhandledExceptionFilter
-- [ ] OutputDebugString (GetLastError())
-- [ ] Hardware Breakpoints (SEH / GetThreadContext)
-- [ ] Software Breakpoints (INT3 / 0xCC)
-- [ ] Memory Breakpoints (PAGE_GUARD)
-- [ ] Interrupt 0x2d
-- [ ] Interrupt 1
-- [ ] Parent Process (Explorer.exe)
-- [ ] SeDebugPrivilege (Csrss.exe)
-- [ ] NtYieldExecution / SwitchToThread
-- [ ] TLS callbacks
-- [ ] Process jobs
-- [ ] Memory write watching
-- [ ] Page exception breakpoint detection
-- [ ] API hook detection (module bounds based)
+
 
 #### 系统支持
 1. win7 x64
