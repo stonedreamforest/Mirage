@@ -16,7 +16,11 @@
 1. win7 x64
 2. win10 19h1 x64
 
-> 注：请把你需要的系统告诉我，我会在我的空闲时间支持它（拒绝支持x86内核以及xp、win8、win8.1😅
+> 注：请把你需要的系统告诉我:[issues](https://github.com/stonedreamforest/Mirage/issues)
+
+> 我会在我的空闲时间支持它（拒绝支持x86内核以及xp、win8、win8.1😅
+
+> 最少需要有10个人使用它我才会支持
 
 #### 调试器支持
 1. 现支持[x64dbg](https://github.com/x64dbg/x64dbg)，而且会持续更新...
