@@ -20,7 +20,7 @@
 
 
 #### 使用
-1. 将`Mirage.sys`、`MirageV.dp32`、`MirageV.dp32`移动到`\plugins\`目录下
+1. 将`Mirage.sys`、`MirageV.dp32`、`MirageV.dp64`移动到`\plugins\`目录下
 
 ![image](https://user-images.githubusercontent.com/16742566/68471575-76669280-0259-11ea-9fba-e41231e83b3c.png)
 
