@@ -16,7 +16,7 @@
 1. win7 x64
 2. win10 19h1 x64
 
-注：请把你想支持的系统告诉我（拒绝支持x86内核以及xp、win8、win8.1😅
+> 注：请把你需要的系统告诉我，我会在我的空闲时间支持它（拒绝支持x86内核以及xp、win8、win8.1😅
 
 
 
@@ -59,3 +59,9 @@
 
 #### 更新日志
 [CHANGELOG](https://github.com/stonedreamforest/Mirage/blob/master/CHANGELOG.MD)
+
+
+
+## 最后
+未来的某一天会公开代码... 
+
