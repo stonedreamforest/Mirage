@@ -15,8 +15,26 @@
 
 
 
+#### 使用
+1. 将`Mirage.sys`、`MirageV.dp32`、`MirageV.dp32`移动到`\plugins\`目录下
+
+![image](https://user-images.githubusercontent.com/16742566/68471575-76669280-0259-11ea-9fba-e41231e83b3c.png)
+
+2. 菜单栏-插件-幻境-进入
+
+![image](https://user-images.githubusercontent.com/16742566/68471759-d5c4a280-0259-11ea-8922-46569af7d9be.png)
 
 
+- 附加
+> 输入进程id - 点击`附加进程` - 点击`开启`
+
+![image](https://user-images.githubusercontent.com/16742566/68471844-06a4d780-025a-11ea-9c12-0c07e11b53d5.png)
+
+
+- 启动调试
+> 直接点击开启
+
+![image](https://user-images.githubusercontent.com/16742566/68471860-13293000-025a-11ea-8319-1707dcb9a0d2.png)
 
 
 
