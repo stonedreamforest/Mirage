@@ -45,8 +45,11 @@
 
 
 
-#### 最新版
+#### 当前版本
 [v20191108](https://github.com/stonedreamforest/Mirage/releases/tag/v20191108)
+
+#### 最新版
+[最新版](https://github.com/stonedreamforest/Mirage/releases)
 
 
 #### 更新日志
