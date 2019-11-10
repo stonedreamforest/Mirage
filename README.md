@@ -39,6 +39,9 @@
 ![image](https://user-images.githubusercontent.com/16742566/68540402-a6827280-03cc-11ea-9e5e-b54916db71f5.png)
 
 1. 使用`MVConfigBuild.exe`生成`config.mv`配置文件 并将之移动到c盘根目录`C:\`
+
+*管理员启动CMD*:
+
 > MVConfigBuild.exe `C:\symbols\ntkrnlmp.pdb\hashxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\ntkrnlmp.pdb`
 
 ![image](https://user-images.githubusercontent.com/16742566/68540440-0da02700-03cd-11ea-9810-4bda0d9e1c18.png)
