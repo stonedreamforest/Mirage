@@ -34,11 +34,20 @@
 
 
 #### 使用
-1. 将`Mirage.sys`、`MirageV.dp32`、`MirageV.dp64`移动到`\plugins\`目录下
+0. 使用[`PDBDownloader.exe`](https://github.com/rajkumar-rangaraj/PDB-Downloader)下载`ntoskrnl.exe`文件 (默认在下载在C盘
+
+![image](https://user-images.githubusercontent.com/16742566/68540402-a6827280-03cc-11ea-9e5e-b54916db71f5.png)
+
+1. 使用`MVConfigBuild.exe`生成`config.mv`配置文件 并将之移动到c盘根目录`C:\`
+> MVConfigBuild.exe `C:\symbols\ntkrnlmp.pdb\hashxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\ntkrnlmp.pdb`
+![image](https://user-images.githubusercontent.com/16742566/68540440-0da02700-03cd-11ea-9810-4bda0d9e1c18.png)
+
+
+2. 将`Mirage.sys`、`MirageV.dp32`、`MirageV.dp64`移动到`\plugins\`目录下
 
 ![image](https://user-images.githubusercontent.com/16742566/68471575-76669280-0259-11ea-9fba-e41231e83b3c.png)
 
-2. 菜单栏-插件-幻境-进入
+3. 菜单栏-插件-幻境-进入
 
 ![image](https://user-images.githubusercontent.com/16742566/68471759-d5c4a280-0259-11ea-8922-46569af7d9be.png)
 
