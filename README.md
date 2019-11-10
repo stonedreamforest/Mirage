@@ -13,8 +13,8 @@
 
 
 #### 系统支持
-1. win7 x64
-2. win10 19h1 x64
+1. win7 x64 ( *`6.1.7600`*)
+2. win10 19h1 x64 (*`10.0.18362.XXXX`*)
 
 > 注：请把你需要的系统告诉我:[issues](https://github.com/stonedreamforest/Mirage/issues) 或者给我发邮件... 如果你有我的微信也可以说... 友情通道...QAQ
 
