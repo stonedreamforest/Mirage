@@ -8,9 +8,29 @@
 2. 不与其它反反调试插件冲突
 
 
-#### 测试程序
-[al-khaser](https://github.com/LordNoteworthy/al-khaser)
+#### 功能支持
 
+- [x] IsDebuggerPresent
+- [x] CheckRemoteDebuggerPresent
+- [x] Process Environment Block (BeingDebugged)
+- [x] Process Environment Block (NtGlobalFlag)
+- [x] ProcessHeap (Flags)
+- [x] ProcessHeap (ForceFlags)
+- [x] NtQueryInformationProcess (ProcessDebugPort)
+- [x] NtQueryInformationProcess (ProcessDebugFlags)
+- [x] NtQueryInformationProcess (ProcessDebugObject)
+- [x] NtSetInformationThread (HideThreadFromDebugger)
+- [x] NtQueryObject (ObjectTypeInformation)
+- [x] NtQueryObject (ObjectAllTypesInformation)
+- [x] CloseHanlde (NtClose) Invalide Handle
+- [x] SetHandleInformation (Protected Handle)
+- [x] Hardware Breakpoints (SEH / GetThreadContext)
+- [x] NtYieldExecution / SwitchToThread
+- [x] Process jobs
+- [x] Memory write watching
+> 仅聚焦内核模式能处理的检测功能 （如果你有任何想法或建议请告诉我
+
+测试程序：[al-khaser](https://github.com/LordNoteworthy/al-khaser)
 
 #### 系统支持
 1. win7 x64 ( *`6.1.7600`*)
