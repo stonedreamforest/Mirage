@@ -28,7 +28,7 @@
 - [x] NtYieldExecution / SwitchToThread
 - [x] Process jobs
 - [x] Memory write watching
-> 仅聚焦内核模式能处理的检测功能 （如果你有任何想法或建议请告诉我
+> 仅聚焦内核模式能处理的检测功能 （如有遗漏或你有任何想法、建议请告诉我
 
 测试程序：[al-khaser](https://github.com/LordNoteworthy/al-khaser)
 
