@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/16742566/68569294-b9627900-0498-11ea-90c1-35d2f3af2ad6.png)
 
-2. 一些UI逻辑跳转
+2. 一些UI逻辑调整
 3. 其它版本也可以尝试使用（win7和win7sp1变化相差不大应该可以用，至于win10看天意...
 
 
