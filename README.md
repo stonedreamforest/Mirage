@@ -44,7 +44,7 @@
 
 #### 调试器支持
 1. 现支持[x64dbg](https://github.com/x64dbg/x64dbg)，而且会持续更新...
-2. 不会支持OD
+2. 不会支持OD    [支持OD？点击回复投票](https://github.com/stonedreamforest/Mirage/issues/4)
 3. 计划支持windbg、[cutter](https://github.com/radareorg/cutter)、[ghidra](https://github.com/NationalSecurityAgency/ghidra) 。后俩者需要它们本身先支持调试功能
 
 
