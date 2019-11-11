@@ -66,7 +66,7 @@
 
 ![image](https://user-images.githubusercontent.com/16742566/68540440-0da02700-03cd-11ea-9810-4bda0d9e1c18.png)
 
-*可用离线版：[离线版config]://github.com/stonedreamforest/Mirage/tree/master/config) （每个人都可以上传相应版本配置到此仓库.*
+*可用离线版：[离线版config](https://github.com/stonedreamforest/Mirage/tree/master/config) （每个人都可以上传相应版本配置到此仓库.*
 
 *格式：[版本.mv] 比如 ：**10.0.18362.295.mv**（可以使用cmd查看*
 
