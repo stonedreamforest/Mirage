@@ -100,10 +100,10 @@
 
 
 
-#### 当前版本（[点击查看：历史版本及最新版](https://github.com/stonedreamforest/Mirage/releases)
+#### 当前版本
 [v20191111](https://github.com/stonedreamforest/Mirage/releases/tag/v20191111)
 
-
+#### [点击查看：历史版本及最新版](https://github.com/stonedreamforest/Mirage/releases)
 
 
 #### 更新日志
