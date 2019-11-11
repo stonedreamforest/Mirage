@@ -66,6 +66,13 @@
 
 ![image](https://user-images.githubusercontent.com/16742566/68540440-0da02700-03cd-11ea-9810-4bda0d9e1c18.png)
 
+*可用离线版：[离线版config]://github.com/stonedreamforest/Mirage/tree/master/config) （每个人都可以上传相应版本配置到此仓库.*
+
+*格式：[版本.mv] 比如 ：**10.0.18362.295.mv**（可以使用cmd查看*
+
+![image](https://user-images.githubusercontent.com/16742566/68569294-b9627900-0498-11ea-90c1-35d2f3af2ad6.png)
+
+
 
 2. 将`Mirage.sys`、`MirageV.dp32`、`MirageV.dp64`移动到`\plugins\`目录下
 
