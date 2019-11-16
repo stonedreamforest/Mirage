@@ -74,9 +74,15 @@
 
 
 
-2. 将`Mirage.sys`、`MirageV.dp32`、`MirageV.dp64`移动到`\plugins\`目录下
+2. 将`MirageV.dp32`、`MirageV.dp64`移动到对应`\plugins\`目录下
 
-![image](https://user-images.githubusercontent.com/16742566/68471575-76669280-0259-11ea-9fba-e41231e83b3c.png)
+![image](https://user-images.githubusercontent.com/16742566/68994420-b4009680-08bd-11ea-8a21-43a52dd789a9.png)
+
+
+将`Mirage.sys`移动到`C:\Windows\System32\drivers\`目录下
+
+![image](https://user-images.githubusercontent.com/16742566/68994431-d5618280-08bd-11ea-88f8-63cbf0bec16a.png)
+
 
 3. 菜单栏-插件-幻境-进入
 
