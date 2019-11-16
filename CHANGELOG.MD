@@ -1,5 +1,10 @@
 
 
+#### 2019-11-16
+0. 修复[issues/5](https://github.com/stonedreamforest/Mirage/issues/5)
+1. 将`Mirage.sys`的默认目录设为`C:\Windows\System32\drivers\`目录下 避免创建多个副本
+2. 一些bug修复
+
 #### 2019-11-11
 0. 修复[issues 2](https://github.com/stonedreamforest/Mirage/issues/2)
 1. 添加`config`离线文件 可以根据自己需要使用 每个人都可以上传相应版本配置到此仓库。格式：`版本.mv`(可以使用cmd查看
