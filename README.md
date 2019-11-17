@@ -62,7 +62,7 @@
 
 *管理员启动CMD*:
 
-> MVConfigBuild.exe `C:\symbols\ntkrnlmp.pdb\hashxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\ntkrnlmp.pdb`
+> MVConfigBuild.exe `C:\symbols\ntkrnlmp.pdb\hashxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\ntkrnlmp.pdb` (你应该确保`MVConfigBuild.exe` 和`msdia140.dll`在同一目录下
 
 ![image](https://user-images.githubusercontent.com/16742566/68540440-0da02700-03cd-11ea-9810-4bda0d9e1c18.png)
 
