@@ -1,4 +1,6 @@
 
+#### 2019-11-17
+0. [修复错误提示在非中文系统乱码的问题 issues/6](https://github.com/stonedreamforest/Mirage/issues/6)
 
 #### 2019-11-16
 0. 修复[issues/5](https://github.com/stonedreamforest/Mirage/issues/5)
