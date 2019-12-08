@@ -58,6 +58,9 @@
 
 ![image](https://user-images.githubusercontent.com/16742566/68540402-a6827280-03cc-11ea-9e5e-b54916db71f5.png)
 
+------------------------------------------
+
+
 1. 使用`MVConfigBuild.exe`生成`config.mv`配置文件 并将之移动到c盘根目录`C:\`
 
 *管理员启动CMD*:
@@ -71,6 +74,9 @@
 *格式：[版本.mv] 比如 ：**10.0.18362.295.mv**（可以使用cmd查看*
 
 ![image](https://user-images.githubusercontent.com/16742566/68569294-b9627900-0498-11ea-90c1-35d2f3af2ad6.png)
+
+
+------------------------------------------
 
 
 
@@ -93,6 +99,9 @@
     + 驱动：
     > 将`Mirage.sys`移动到`C:\Windows\System32\drivers\`目录下
     ![image](https://user-images.githubusercontent.com/16742566/68994431-d5618280-08bd-11ea-88f8-63cbf0bec16a.png)
+
+------------------------------------------
+
 
 3. 使用
 
