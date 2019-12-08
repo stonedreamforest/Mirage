@@ -45,7 +45,7 @@
 #### 调试器支持
 1. 现支持[x64dbg](https://github.com/x64dbg/x64dbg)，而且会持续更新...
 2. 不会支持OD    [支持OD？点击回复投票](https://github.com/stonedreamforest/Mirage/issues/4)
-3. 计划支持windbg、[cutter](https://github.com/radareorg/cutter)、[ghidra](https://github.com/NationalSecurityAgency/ghidra) 。后俩者需要它们本身先支持调试功能
+3. 计划支持~~已支持windbg~~、[cutter](https://github.com/radareorg/cutter)、[ghidra](https://github.com/NationalSecurityAgency/ghidra) 。后俩者需要它们本身先支持调试功能
 
 
 #### 技术支持(包括但不限于反反调试、驱动读写、驱动注入...
@@ -74,20 +74,27 @@
 
 
 
-2. 将`MirageV.dp32`、`MirageV.dp64`移动到对应`\plugins\`目录下
+2. 文件放置
+    + x64dbg：
+    > 将`MirageV.dp32`、`MirageV.dp64`移动到对应`\plugins\`目录下
+    ![image](https://user-images.githubusercontent.com/16742566/68994420-b4009680-08bd-11ea-8a21-43a52dd789a9.png)
+    
+    1. 运行：菜单栏-插件-幻境-进入
+    ![image](https://user-images.githubusercontent.com/16742566/68471759-d5c4a280-0259-11ea-8922-46569af7d9be.png)
+    
+    + windbg：
+    > 将`MirageV.dll`移动到对应`\Debuggers\bit??\`目录下
+    ![image](https://user-images.githubusercontent.com/16742566/70392479-7a81fd80-1a1b-11ea-86ed-6af8d0ab5379.png)
+    
+    1. 运行：`windbg -a MirageV.dll `
+    2. 再次运行：`!MirageVRun`
+    
+    
+    + 驱动：
+    > 将`Mirage.sys`移动到`C:\Windows\System32\drivers\`目录下
+    ![image](https://user-images.githubusercontent.com/16742566/68994431-d5618280-08bd-11ea-88f8-63cbf0bec16a.png)
 
-![image](https://user-images.githubusercontent.com/16742566/68994420-b4009680-08bd-11ea-8a21-43a52dd789a9.png)
-
-
-将`Mirage.sys`移动到`C:\Windows\System32\drivers\`目录下
-
-![image](https://user-images.githubusercontent.com/16742566/68994431-d5618280-08bd-11ea-88f8-63cbf0bec16a.png)
-
-
-3. 菜单栏-插件-幻境-进入
-
-![image](https://user-images.githubusercontent.com/16742566/68471759-d5c4a280-0259-11ea-8922-46569af7d9be.png)
-
+3. 使用
 
 - 附加
 > 输入进程id - 点击`附加进程` - 点击`开启`
@@ -107,7 +114,7 @@
 
 
 #### 当前版本
-[v20191117](https://github.com/stonedreamforest/Mirage/releases/tag/v20191117)
+[v20191209](https://github.com/stonedreamforest/Mirage/releases/tag/v20191209)
 
 #### [点击查看：历史版本及最新版](https://github.com/stonedreamforest/Mirage/releases)
 
