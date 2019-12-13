@@ -124,7 +124,7 @@
 
 
 #### 当前版本
-[v20191209](https://github.com/stonedreamforest/Mirage/releases/tag/v20191209)
+[v20191213](https://github.com/stonedreamforest/Mirage/releases/tag/v20191213)
 
 #### [点击查看：历史版本及最新版](https://github.com/stonedreamforest/Mirage/releases)
 
