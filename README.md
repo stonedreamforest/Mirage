@@ -48,11 +48,6 @@
 3. 计划支持~~已支持windbg~~、[cutter](https://github.com/radareorg/cutter)、[ghidra](https://github.com/NationalSecurityAgency/ghidra) 。后俩者需要它们本身先支持调试功能
 
 
-#### 技术支持(包括但不限于反反调试、驱动读写、驱动注入...
-> 如果你要支持某一特定程序或系统, 请邮件联系我，我将成为你的私人技术支持... （*很明显这将是付费的.*
-
-
-
 #### 使用
 0. 使用[`PDBDownloader.exe`](https://github.com/rajkumar-rangaraj/PDB-Downloader)下载`ntoskrnl.exe`文件 (默认在下载在C盘
 
@@ -124,7 +119,7 @@
 
 
 #### 当前版本
-[v20191213](https://github.com/stonedreamforest/Mirage/releases/tag/v20191213)
+[v20191213](https://github.com/stonedreamforest/Mirage/releases/tag/v20200108)
 
 #### [点击查看：历史版本及最新版](https://github.com/stonedreamforest/Mirage/releases)
 
