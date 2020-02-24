@@ -1,4 +1,15 @@
 
+
+
+
+
+
+
+#### 2020-02-24
+0. 增强反虚拟机检测：[issues/8](https://github.com/stonedreamforest/Mirage/issues/8)
+
+
+
 #### 2020-01-08
 0. 提升稳定性
 
