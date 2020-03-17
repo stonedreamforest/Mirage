@@ -1,5 +1,9 @@
+![GitHub Releases](https://img.shields.io/github/downloads/stonedreamforest/Mirage/latest/total?style=flat-square&logo=github)
+![GitHub All Releases](https://img.shields.io/github/downloads/stonedreamforest/Mirage/total?label=downloads-total&logo=github&style=flat-square)
+
 # Mirage
 > 驱动已签名，由于使用泄露签名，使用前请关闭杀毒软件。
+
 
 
 
