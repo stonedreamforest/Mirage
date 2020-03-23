@@ -1,4 +1,4 @@
-![Mirage](https://img.shields.io/github/tag/stonedreamforest/Mirage.svg)
+![Mirage](https://img.shields.io/github/tag/stonedreamforest/Mirage?style=flat-square)
 ![Mirage](https://img.shields.io/github/release/stonedreamforest/Mirage/all.svg?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues-raw/stonedreamforest/mirage?style=flat-square)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/stonedreamforest/mirage?style=flat-square)
