@@ -137,7 +137,8 @@
 #### 更新日志
 [CHANGELOG](https://github.com/stonedreamforest/Mirage/blob/master/CHANGELOG.MD)
 
-
+#### 相关
+- [Navy: 轻量级自动分析病毒程序调用上下文、游戏反调试实现技术...](https://github.com/stonedreamforest/Navy_public)
 
 ## 最后
 未来的某一天会公开代码... 
